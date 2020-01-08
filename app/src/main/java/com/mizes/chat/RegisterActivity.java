@@ -15,7 +15,6 @@ public class RegisterActivity extends AppCompatActivity {
 
         ProgressBar progressBar = (ProgressBar) findViewById(R.id.loading);
         progressBar.setVisibility(ProgressBar.VISIBLE);
-        // запускаем длительную операцию
-        progressBar.setVisibility(ProgressBar.INVISIBLE);
+
     }
 }
