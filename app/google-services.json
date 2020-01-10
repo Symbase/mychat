@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "868984253110",
+    "firebase_url": "https://chat-a6a66.firebaseio.com",
+    "project_id": "chat-a6a66",
+    "storage_bucket": "chat-a6a66.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:868984253110:android:3957ede2b487f82a185417",
+        "android_client_info": {
+          "package_name": "com.mizes.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "868984253110-itcpgf213st8gnhok29trlsou5uvqk7l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mizes.chat",
+            "certificate_hash": "a48dbec327224babc63c4116bafd88c68dd3948a"
+          }
+        },
+        {
+          "client_id": "868984253110-6gc7kg0r3kjidtb628qhkd9r7o83p6ae.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5xDIhFJsrPRNQDtYLD0mL9Ez3aIokKpY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "868984253110-6gc7kg0r3kjidtb628qhkd9r7o83p6ae.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -10,6 +10,11 @@
     android:paddingRight="30dp"
     android:paddingTop="80dp">
 
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Hello World! Welcome!"
+        />
 
 
 </LinearLayout>

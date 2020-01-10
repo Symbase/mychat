@@ -3,9 +3,11 @@
     <string name="edit_name">Name</string>
     <string name="edit_email">Email</string>
     <string name="edit_password">Password</string>
-    <string name="edit_c_password">Name</string>
+    <string name="edit_c_password">Confirm password</string>
     <string name="b_register">Registered</string>
     <string name="b_sign">Sign</string>
+    <string name="text_login">Нету аккаунта? Регистрация! </string>
+    <string name="text_reg">Уже есть аккаунт? Войти! </string>
 
 
 </resources>
