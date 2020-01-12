@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="Hone"/>
+
+    <item
+        android:id="@+id/nav_message"
+        android:icon="@drawable/ic_message_black_24dp"
+        android:title="Message"/>
+
+    <item
+        android:id="@+id/nav_people"
+        android:icon="@drawable/ic_people_black_24dp"
+        android:title="People"/>
+
+
+
+</menu>
