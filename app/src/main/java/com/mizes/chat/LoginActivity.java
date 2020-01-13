@@ -8,6 +8,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
+import android.widget.ListView;
 import android.widget.ProgressBar;
 import android.widget.TextView;
 import android.widget.Toast;
@@ -26,6 +27,8 @@ public class LoginActivity extends AppCompatActivity {
     private ProgressBar loginProgress;
     private FirebaseAuth mAuth;
     private Intent MainActivity;
+    private ListView listOfMessages;
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -39,7 +42,7 @@ public class LoginActivity extends AppCompatActivity {
         textView = findViewById(R.id.textViewLogin);
         mAuth = FirebaseAuth.getInstance();
         MainActivity = new Intent(this,MainActivity.class);
-
+        listOfMessages =  findViewById(R.id.list_of_messages);
 
         btnLogin.setOnClickListener(new View.OnClickListener() {
             @Override

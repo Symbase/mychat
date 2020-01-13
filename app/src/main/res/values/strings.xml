@@ -8,6 +8,9 @@
     <string name="b_sign">Sign</string>
     <string name="text_login">Нету аккаунта? Регистрация! </string>
     <string name="text_reg">Уже есть аккаунт? Войти! </string>
+    <string name="username">Username</string>
+    <string name="text_send">Введите сообщение</string>
+    <string name="sign_out">Sign Out</string>
 
 
 </resources>
